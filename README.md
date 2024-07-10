@@ -1,0 +1,1 @@
+# This is a JavaScript Assignment no. 06.
